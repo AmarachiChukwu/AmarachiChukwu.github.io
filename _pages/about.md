@@ -11,7 +11,7 @@ I am a Nigerian geospatial professional with a Bachelor's degree in Geology. I a
 
 ## Education
 - MSc Applied Geoinformatics — University of Salzburg, Austria *(ongoing)*
-- BSc Geology — *(University of Port Harcout, Nigeria)*
+- BSc Geology — University of Port Harcout, Nigeria
 
 ## Skills
 - GIS & Remote Sensing: ArcGIS 
