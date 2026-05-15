@@ -12,7 +12,7 @@ redirect_from:
 - BSc Geology — University of Port Harcourt, Nigeria
 
 ## Work Experience
-- **Intern — Schlumberger Nigeria**
+- **Intern Schlumberger Nigeria**
   - Used Petrel software for subsurface modelling
   - Geological data visualization
   - Oil and gas industry exposure
