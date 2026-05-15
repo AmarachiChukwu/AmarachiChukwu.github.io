@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Amarachi Chukwu"
   pronouns         : # example: "she/her"  
-  bio              : description: "MSc Applied Geoinformatics student at the University of Salzburg. Geology graduate with industry experience at Schlumberger Nigeria using Petrel software. Skilled in ArcGIS, Python, SQL, Power BI and Tableau. Passionate about geospatial software development and geovisualization."
+  bio              : "MSc Applied Geoinformatics student at the University of Salzburg. Geology graduate with industry experience at Schlumberger Nigeria using Petrel software. Skilled in ArcGIS, Python, SQL, Power BI and Tableau. Passionate about geospatial software development and geovisualization."
   location         : "Salzburg, Austria"
   employer         : "University of salzburg"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "AmarachiChukwu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
