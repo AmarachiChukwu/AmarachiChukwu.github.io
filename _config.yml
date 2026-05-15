@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Amarachi Chukwu / Geoinformatics"
 title_separator          : "-"
 name                     : &name "Amarachi Chukwu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "MSc Applied Geoinformatics student at the University of Salzburg. Geology graduate with industry experience at Schlumberger Nigeria using Petrel software. Skilled in ArcGIS, Python, SQL, Power BI and Tableau. Passionate about geospatial software development and geovisualization."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://AmarachiChukwu.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AmarachiChukwu/AmarachiChukwu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Amarachi Chukwu"
   pronouns         : # example: "she/her"  
   bio              : description: "MSc Applied Geoinformatics student at the University of Salzburg. Geology graduate with industry experience at Schlumberger Nigeria using Petrel software. Skilled in ArcGIS, Python, SQL, Power BI and Tableau. Passionate about geospatial software development and geovisualization."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Salzburg, Austria"
+  employer         : "University of salzburg"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chukwuamarachivivian@gmail.com" 
 
   # Academic websites
   academia         : # URL
