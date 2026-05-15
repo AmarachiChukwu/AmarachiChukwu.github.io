@@ -7,58 +7,27 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+- MSc Applied Geoinformatics — University of Salzburg, Austria *(ongoing)*
+- BSc Geology — University of Port Harcourt, Nigeria
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Work Experience
+- **Intern — Schlumberger Nigeria**
+  - Used Petrel software for subsurface modelling
+  - Geological data visualization
+  - Oil and gas industry exposure
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Skills
+- **GIS & Remote Sensing:** ArcGIS
+- **Programming:** Python
+- **Data Analytics:** SQL, Power BI, Tableau
+- **Industry Software:** Petrel
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Languages
+- English *(fluent)*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Interests
+- Geospatial Software Development
+- Geovisualization
+- Spatial Data Science
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
