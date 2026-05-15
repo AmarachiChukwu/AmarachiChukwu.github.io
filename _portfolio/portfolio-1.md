@@ -1,14 +1,11 @@
 ---
----
 title: "Landsat-8 Image Calibration and Spectral Analysis"
-excerpt: "Performed image calibration and spectral analysis of Landsat-8 imagery using ArcGIS Pro, including TOA reflectance calibration, spectral plotting and NDVI generation."
-collection: "portfolio"
+excerpt: "Performed image calibration and spectral analysis of Landsat-8 imagery using ArcGIS Pro."
+collection: portfolio
 ---
 
 ## Overview
-This project involved downloading and calibrating Landsat-8 satellite imagery 
-from USGS Earth Explorer for an area of interest, and performing spectral 
-analysis comparing uncalibrated, TOA and BOA images.
+This project involved downloading and calibrating Landsat-8 satellite imagery from USGS Earth Explorer and performing spectral analysis comparing uncalibrated, TOA and BOA images.
 
 ## Tools Used
 - ArcGIS Pro
