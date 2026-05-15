@@ -22,3 +22,7 @@ I am a Nigerian geospatial professional with a Bachelor's degree in Geology. I a
 ## Experience
 - **Intern Schlumberger Nigeria**
   Worked with Petrel software for subsurface modelling and geological data visualization
+
+## My Portfolio
+- [GitHub Portfolio](https://amarachichukwu.github.io)
+- [Wix Portfolio](https://chukwuamarachivivi.wixsite.com/amarachi-chukwu)
