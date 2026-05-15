@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## Education
-- MSc Applied Geoinformatics — University of Salzburg, Austria *(ongoing)*
-- BSc Geology — University of Port Harcourt, Nigeria
+- MSc Applied Geoinformatics  University of Salzburg, Austria *(ongoing)*
+- BSc Geology  University of Port Harcourt, Nigeria
 
 ## Work Experience
 - **Intern Schlumberger Nigeria**
