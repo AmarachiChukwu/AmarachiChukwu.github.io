@@ -2,7 +2,7 @@
 ---
 title: "Landsat-8 Image Calibration and Spectral Analysis"
 excerpt: "Performed image calibration and spectral analysis of Landsat-8 imagery using ArcGIS Pro, including TOA reflectance calibration, spectral plotting and NDVI generation."
-collection: portfolio
+collection: "portfolio"
 ---
 
 ## Overview
