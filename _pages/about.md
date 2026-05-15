@@ -11,14 +11,14 @@ I am a Nigerian geospatial professional with a Bachelor's degree in Geology. I a
 
 ## Education
 - MSc Applied Geoinformatics — University of Salzburg, Austria *(ongoing)*
-- BSc Geology — *(your university name)*
+- BSc Geology — *(University of Port Harcout, Nigeria)*
 
 ## Skills
-- GIS & Remote Sensing: ArcGIS, QGIS
+- GIS & Remote Sensing: ArcGIS 
 - Programming: Python
 - Data Analytics: SQL, Power BI, Tableau
 - Industry Software: Petrel
 
 ## Experience
 - **Intern — Schlumberger Nigeria**
-  Worked with Petrel software for subsurface modelling and geological data visualization/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+  Worked with Petrel software for subsurface modelling and geological data visualization
